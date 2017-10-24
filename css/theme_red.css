@@ -1,0 +1,63 @@
+body{background:#F4F4F4;}
+
+h3, h5, p, ol, ul, table, b{color:#37474F;}
+
+nav.header{background: #E5001B;}
+
+header{
+	background-color: #990012;
+	background: -webkit-linear-gradient(#59000A,#E5001B);
+	background: linear-gradient(#59000A,#E5001B);
+	box-shadow: 0 9px 35px 0 rgba(229,0,27, 0.8);
+	color:#fff;
+}
+
+.block_3 > div{color:#37474F;}
+
+.block_3 > div > i{color:#00FF37;}
+
+.button{background:#00FF37;
+	color:#FFF;
+	border: 0px solid #00FF37;
+	box-shadow: 0 2px 12px 0 rgba(0,0,0,0.5);
+}
+
+.secondNAVCont{background:#6F000D;}
+
+.secondNAV > div.selected{
+	color:#59000A;
+	background:#F4F4F4;
+}
+
+.freeDOWNLOAD{
+	border-top:4px solid #E5001B;
+	border-bottom:4px solid #E5001B;
+	background:#FFF;
+
+}
+
+.sidebar > div{
+	border-top:2px solid #E5001B;
+	border-bottom:2px solid #E5001B;
+}
+
+.dontMissOUT{background:#E5001B;}
+
+.subTitle > h4{color:#E5001B;}
+.firstLINE{border-top:1px solid #E5001B;}
+
+.tagcloud ul li a {background-color: #E5001B;}
+.tagcloud ul li a::before {border-color: transparent #E5001B transparent transparent;}
+
+.socialContainer > div.social{
+	color:#fff;
+	background:#990012;
+	margin-right:15px;
+	border: 0px solid #990012;
+	box-shadow: 0 2px 12px 0 rgba(0,0,0,0.5);
+}
+
+div.footer{
+	background:#263238;
+	color:#FFF;
+}
