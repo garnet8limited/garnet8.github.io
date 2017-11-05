@@ -5,6 +5,7 @@ body{
 	font-family: "Roboto","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
 
+a.header{color:#FFF;}
 h3, h4, h5, p, ol, ul, table, b{color:#37474F;}
 h3{margin:3px 0 0 16px;}
 
